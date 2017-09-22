@@ -1,0 +1,12 @@
+//char * note_names[];
+//char * dur_names[];
+int transpose(int k1, int k2);
+int nint2(float x);
+int quantize(int val, int tpb, int met);
+int encode(int val, int dur);
+int decodeDur(int enc_val);
+int decodeNote(int enc_val);
+void printEnc(int enc_val);
+int interval(int curr, int next);
+int intervalMod(int curr,int next);
+int parsons(int curr, int prev);
