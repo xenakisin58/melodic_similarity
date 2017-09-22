@@ -8,3 +8,5 @@ _How is this done?_
 We scraped MIDI files from the Lakh dataset and have developed five text-based encodings that represent various levels of information. The rest of the research is essentially string and substring comparison measures to evaluate similarity, and applicasions thereof. Two such applications are evaluating how these algorithms perform at cover song identification in both Pop music and jazz music.
 
 Thanks for taking the time to read! More to come here as this research has only just begun!
+
+*If you are having trouble seeing all pages of the thesis (PDF) please download it, they are all there, I promise!
